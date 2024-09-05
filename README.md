@@ -4,6 +4,8 @@
 
 The Album Viewer App is a Flutter application developed as part of a hiring challenge for **Waffarha**. The app showcases the ability to interact with an API to fetch, display, sort, and filter a list of albums. The app emphasizes functionality, performance, and effective API handling.
 
+<img src="screen_shots/demo.gif" alt="Demo GIF" width="300"/>
+
 ## Key Features
 
 - **Data Fetching**: Retrieves album data from an API with pagination support.
